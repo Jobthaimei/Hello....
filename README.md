@@ -1,2 +1,2 @@
 # Hello....
-Hello... is an project base on Geospatial services
+Hello... is a project base on Geospatial services
